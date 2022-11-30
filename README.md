@@ -5,7 +5,7 @@
 ### Here is my GITHUB website, which I mainly upload and edit code for me and other people:
 
 - 🔭 I’m currently studying in Aptech Computer Education
-- 🌱 I’m currently learning computing
+- 🌱 I major in computing
 - 📫 How to reach me: 
 + :page_facing_up: My info website - Vietnamese edition: https://portertheinfo.simple.ink/
 + :computer: My technological blog website: https://portercoder.simple.ink/
