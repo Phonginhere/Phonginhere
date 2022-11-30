@@ -10,7 +10,6 @@
     + :page_facing_up: My info website - Vietnamese edition: https://portertheinfo.simple.ink/
     + :computer: My technological blog website: https://portercoder.simple.ink/
     + :books: My research blog website: https://porterloveresearch.simple.ink/
-   /* + :page_facing_up: My Curriculum Vitae (CV): https://portertheinfo.simple.ink/my-personal-cv-2ab84fadd5d04213a3befda456593bc0 */
 - 😄 Pronouns: Phong, but you can call me Porter if you are foreign people.
 - ⚡ Fun fact: 'Phong' name means windy :wind_chime:
 
