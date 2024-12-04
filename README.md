@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Artificial Intelligence and Data Science
+[![Stock Prediction Price](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=stock_prediction_price&show_owner=True)](https://github.com/Phonginhere/stock_prediction_price)
+
 <!--
 **Phonginhere/Phonginhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
