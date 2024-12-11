@@ -8,9 +8,13 @@ My name is Phong Tran, I am a final year in Bachelor of Computer Science, majori
 [![Stock Prediction Price](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=stock_prediction_price&show_owner=True)](https://github.com/Phonginhere/stock_prediction_price)
 [![Computer Vision Smart-City](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=cos40007-team&show_owner=True)](https://github.com/Phonginhere/cos40007-team)
 
+---
+
 ### Software
 [![Pet care Android](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=projectPetCare&show_owner=True)](https://github.com/Phonginhere/projectPetCare)
 [![Pet care Windows App](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=Java_Project_2_Pet_Care_Desktop&show_owner=True)](https://github.com/Phonginhere/Java_Project_2_Pet_Care_Desktop)
+
+---
 
 ### Website Developer (Not include AI/Data website)
 [![Archery competition website](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=cos20031&show_owner=True)](https://github.com/Phonginhere/cos20031)
