@@ -23,7 +23,7 @@ My name is Phong Tran, I am a final year in Bachelor of Computer Science, majori
 
 ---
 
-### Website Developer (Not include AI/Data website)
+### Website Developer
 [![Archery competition website](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=cos20031&show_owner=True)](https://github.com/Phonginhere/cos20031)
 [![EOI - Expression of Interest](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=assgn2-citp&show_owner=True)](https://github.com/Phonginhere/assgn2-citp)
 [![Stationery Management](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=Stationery-Web-ENG&show_owner=True)](https://github.com/Phonginhere/Stationery-Web-ENG)
