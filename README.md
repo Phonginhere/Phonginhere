@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Phong Tran, I am a final year in Bachelor of Computer Science, majoring in Artificial Intelligence. I am interested in Software Development. Machine Learning
+
+## How to reach me
+[My portfolio will show you more information about me](https://phonghaitran.com)
 
 ### Artificial Intelligence and Data Science (Include website, software AI/Data website)
 [![Stock Prediction Price](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=stock_prediction_price&show_owner=True)](https://github.com/Phonginhere/stock_prediction_price)
