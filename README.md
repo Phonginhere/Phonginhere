@@ -4,6 +4,13 @@ My name is Phong Tran, I am a final year in Bachelor of Computer Science, majori
 ## How to reach me
 [My portfolio link here](https://phonghaitran.com) will show you more information about me
 
+---
+
+### Overall
+![Phong Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phonginhere&show_icons=true)
+
+--
+
 ### Artificial Intelligence and Data Science (Include website, software AI/Data website)
 [![Stock Prediction Price](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=stock_prediction_price&show_owner=True)](https://github.com/Phonginhere/stock_prediction_price)
 [![Computer Vision Smart-City](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=cos40007-team&show_owner=True)](https://github.com/Phonginhere/cos40007-team)
