@@ -1,3 +1,10 @@
+🪐      .        ✦   .     .˚   ✦        .   ✦
+   .˚      .     ✦     🌏       ˚   ✦     .
+       .˚     ✦       .     .˚        ✦
+  .       🌒       .˚     ✦       .˚   .
+     *     .˚        ✦   .      .   ˚ ✦
+
+     
 ## Hi there 👋
 My name is Phong Tran, I am a final year in Bachelor of Computer Science, majoring in Artificial Intelligence. I am interested in Software Development. Machine Learning
 
