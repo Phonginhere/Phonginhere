@@ -1,3 +1,5 @@
+
+
 ## Hi there 👋
 My name is Phong Tran, I am a final year in Bachelor of Computer Science, majoring in Artificial Intelligence. I am interested in Software Development. Machine Learning
 
@@ -30,6 +32,7 @@ My name is Phong Tran, I am a final year in Bachelor of Computer Science, majori
 [![Stationery Management](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=Stationery-Web-ENG&show_owner=True)](https://github.com/Phonginhere/Stationery-Web-ENG)
 [![National Park blog](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=National-Park-web-Vietnamese-Version&show_owner=True)](https://github.com/Phonginhere/National-Park-web-Vietnamese-Version)
 
+<img width="1378" height="1378" alt="1AD88DE6-9EF6-4D76-829E-29BD89F41D9C" src="https://github.com/user-attachments/assets/a9743730-965c-41fe-be39-866c91638beb" />
 <!--
 **Phonginhere/Phonginhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
