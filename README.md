@@ -18,6 +18,8 @@ My name is Phong Tran, I am a final year in Bachelor of Computer Science, majori
 [![Computer Vision Smart-City](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=cos40007-team&show_owner=True)](https://github.com/Phonginhere/cos40007-team)
 [![Air Quality and Health](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=cos30049&show_owner=True)](https://github.com/Phonginhere/cos30049)
 [![Automated Context in Generated Requirements](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=cos40006&show_owner=True)](https://github.com/Phonginhere/cos40006)
+[![Traffic flow navigation part 1 - search node](https://github-readme-stats.vercel.app/api/pin/?username=Phonginhere&repo=cos30019&show_owner=True)](https://github.com/Phonginhere/cos30019)
+[![Traffic flow navigation part 2 - part 1 + prediction + software](https://github-readme-stats.vercel.app/api/pin/?username=PinkBro05&repo=COS30019-Assignment2B-ML-DL&show_owner=False)](https://github.com/PinkBro05/COS30019-Assignment2B-ML-DL)
 
 ---
 
