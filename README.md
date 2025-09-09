@@ -1,7 +1,7 @@
 
 
 ## Hi there 👋
-My name is Phong Tran, I am a final year in Bachelor of Computer Science, majoring in Artificial Intelligence. I am interested in Software Development. Machine Learning
+My name is Phong Tran, I am a recent graduate in Bachelor of Computer Science, majoring in Artificial Intelligence. I am interested in Software Development. Machine Learning
 
 ## How to reach me
 [My portfolio link here](https://phonghaitran.com) will show you more information about me
